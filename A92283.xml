@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange newes of the sad effects of the fatall eclipse happening the 29th of this March, 1652. Also a prediction of the future fate of the king of Scots: Likewise an old prophesie (never before extant) referring to the Prince of Conde (now in armes against the King of France) positively determining what will be the issue of the said Princes attempts. With the direful effects and prodigies (probably) to be expected in the aire on Monday 29 March, 1652. With other remarkable things never before published. / By N.R. Student in astrology.</title>
+            <author>N. R., student in astrology.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92283</idno>
+            <idno type="STC">Wing R57</idno>
+            <idno type="STC">Thomason E655_24</idno>
+            <idno type="STC">ESTC R205966</idno>
+            <idno type="EEBO-CITATION">99865180</idno>
+            <idno type="PROQUEST">99865180</idno>
+            <idno type="VID">117417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117417)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E655[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange newes of the sad effects of the fatall eclipse happening the 29th of this March, 1652. Also a prediction of the future fate of the king of Scots: Likewise an old prophesie (never before extant) referring to the Prince of Conde (now in armes against the King of France) positively determining what will be the issue of the said Princes attempts. With the direful effects and prodigies (probably) to be expected in the aire on Monday 29 March, 1652. With other remarkable things never before published. / By N.R. Student in astrology.</title>
+                  <author>N. R., student in astrology.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper at the Bible and Harpe in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 8"; The 2 in the imprint date is crossed out and "1652" written in.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Condé, Louis, --  prince de, 1530-1569.</term>
+               <term>Solar eclipses --  1652 --  Early works to 1800.</term>
+               <term>Prophesies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117417:1" rendition="simple:additions"/>
+            <p>Strange Newes of the ſad effects of the fatall Eclipſe happening the 29<hi rend="sup">th</hi> of this <hi>March,</hi> 1652.</p>
+            <p>ALSO A PREDICTION OF The future Fate of the King of <hi>SCOTS:</hi>
+            </p>
+            <p>Likewiſe <hi>An old Propheſie (never before extant) referring to the Prince of</hi> Conde (<hi>now in armes againſt the King of</hi> France) <hi>poſitively determining what will be the iſſue of the ſaid Princes attempts.</hi>
+            </p>
+            <p>With the direful effects and Prodigies (probably) to be expected in the Aire on Mon<g ref="char:EOLhyphen"/>day 29 <hi>March,</hi> 1652. With other remarkable things never before Publiſhed.</p>
+            <p>By <hi>N. R.</hi> Student in Aſtrology.</p>
+            <q>
+               <l>Bright Sol's eclips'd the nine and twentieth day;</l>
+               <l>Of <hi>March,</hi> and we <hi>black-Monday</hi> call it may,</l>
+               <l>To King, and Prince, to Peer, and Potentate,</l>
+               <l>Within few months, it ſhewes a diſmall fate,</l>
+               <l>It alſo in a dolefull tone doth ſing</l>
+               <l>The Prince of <hi>Conde's</hi> actions 'gainst his King.</l>
+            </q>
+            <p>LONDON Printed for <hi>Richard Harper</hi> at the Bible and Harpe in Smithfield. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117417:2"/>
+            <pb n="1" facs="tcp:117417:2"/>
+            <head>Strange newes of the ſad effects of the fatall Eclipſe happening the 29<hi rend="sup">th.</hi> of this <hi>March,</hi> 1652.</head>
+            <head type="sub">OR, The direfull effects and prodegies (probably) to be expected in the Aire on Monday <hi>March</hi> 29. 1652. what time the Sun ſhall be almoſt totally Eclipſed.</head>
+            <head type="sub">
+               <hi>Alſo a Prediction of the future Fate of the King of</hi> Scots <hi>and a prophecy (never before extant) referring to the Prince of</hi> Conde, <hi>and poſitively determining what will be the iſſue of the ſaid Princes attempts,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the Stars of Heaven, are the moſt excellent Characters of the Divinity, Power, Wiſdom, and glory of their Creator, in that they are written and ingraven by the finger of God himſelfe (the father of lights) ſo the leaſt of Gods workes are very conſiderable, and worthy of our chiefeſt regard, <hi>David</hi> infinitly admired at them, and de<g ref="char:EOLhyphen"/>clares the doome of thoſe that diſpiſe them or diſ-regard them, <hi>Pſal.</hi> 28.5. <hi>Becauſe they regard not the works of the Lord, nor the opperation of his hands, the Lord will deſtroy them and not build them up,</hi> Did not God make the Sunne, the Moon, and the Stars? did not he ſet them to rule the day and the night? did he not appoint them for ſignes, and ſeaſons? and can that be a ſigne which ſignifies nothing?
+<pb n="2" facs="tcp:117417:3"/>St <hi>Origen</hi> tells us, <hi>Coelum instar libelli expanſi eſt notis Syde<g ref="char:EOLhyphen"/>rum omnia futura in ſe Scripta continentis,</hi> the heaven (ſaith he) is like to a book laid open containing all future events written in thoſe glorious Characters of the Stars: But to the buſineſſe.</p>
+            <p>Solar Eclipſes have been ever fatall to Kings, Princes, and States and their Dominions, and to all manner of Au<g ref="char:EOLhyphen"/>thorities and men in power, ſetting one King, one Prince, one State, one Great or Nobleman at variance with ano<g ref="char:EOLhyphen"/>ther: this Eclipſe that wee are to expect on Monday <hi>March</hi> 29. 1652. falls out in the fiery triplicity in Aries, the aſcendent of <hi>England,</hi> in the very degree of his exal<g ref="char:EOLhyphen"/>tation: Our preſent Gubernators (who have tranſmografide Monarchy into a Free State) muſt not eſteem themſelves exempted (more then other States) from the effects there<g ref="char:EOLhyphen"/>of, that remarkable Eclipſe of the<note n="*" place="margin">When the Son of righte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſ<g ref="char:EOLhyphen"/>nes ſuffer<g ref="char:EOLhyphen"/>ed on the croſſe.</note> Sunne (when there was darkneſſe over the face of the whole earth (may fitly be paralelled with this; many gods (for ſo the holy Ghoſt is pleaſed to ſtile Rulers) ſhal ſuffer infamous deaths: Soone after this Eclipſe we ſhall generally finde men mad to un<g ref="char:EOLhyphen"/>doe themſelves; the Prince of Planets, the eye of the world, and the glory of the heavens is Eclipſed, juſt upon his throne, the fight whereof will terrifie all mortall eies, for we ſhal ſee the Stars ſhine as in a winters night, and (in all probability) ſtrange and wonderfull ſignes (ſuch as our fore-fathers never beheld) in the Aire, to the aſtoniſh<g ref="char:EOLhyphen"/>ment of all mankind.</p>
+            <q xml:lang="lat">Bella ſonat, ſonat arma, minas ſonat, omnia martis.</q>
+            <p>All the evills the ſword, ſedition, famine or peſtilence can doe to <hi>Europe,</hi> may be expected from the effects of this Eclipſe; it is the greateſt that we have had in <hi>England</hi> this many centuries of years.</p>
+            <q>
+               <l>The Sun's eclips'd in's Throne, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ryes aloud</l>
+               <l>O Kings, why being mortall are ye proud?</l>
+               <l>Your Scepters gone, Democracy takes place,</l>
+               <l>Your Hoaſts ſhall fall by th' ſword before your face,</l>
+               <l>
+                  <pb n="3" facs="tcp:117417:3"/>
+As if that all the furies did conſpire</l>
+               <l>To ſet the rude <hi>Plebeians</hi> hearts on fire,</l>
+               <l>'Gainſt ſacred majeſtie, and to pull down,</l>
+               <l>Each royal head, thats circled with a crowne.</l>
+            </q>
+            <p>There are many (I beleive) that would willingly give halfe their lives, to know the future Fate of the <hi>Scots</hi> King (at preſent, as it were an exile from his native clime) I am ſure no man more compaſſionates the infortunities of that Star-croſſed Gentleman, then my ſelf, let his condition be a lively example to thoſe, whether Soldier or Magiſtrate, who rule over their Fellow-Commoners, &amp; let them know that their greatneſſe being built only upon the uncertaine breath of that ſuſpicious, humorſome, and skittiſh beaſt, the Peo<g ref="char:EOLhyphen"/>ple; is very uncertaine, and ſubject to various viciſſitudes. But it were extream arrogance in me (at leaſt I ſhould be ſure of ſuch a cenſure) poſitively to predict his future con<g ref="char:EOLhyphen"/>dition, and therefore I ſhall only give you an old prophecy (fathered upon <hi>Baudenſis</hi> and attributed by him to the pre<g ref="char:EOLhyphen"/>ſent King of <hi>Scots</hi>) which is this,</p>
+            <q>
+               <l>Great<note n="*" place="margin">K Iames.</note> 
+                  <hi>J.</hi> thou peaceful King, thy firſt iſſue</l>
+               <l>Inclines to War, Plague doth the next ſubdue:</l>
+               <l>A<note n="*" place="margin">Charls 2.</note> Lyon feirce, ſprung from the Northern ſhoare</l>
+               <l>Shall bring from deepeſt hell, and waves that roare.</l>
+               <l>A blaſing Army, he ſhall men ore<g ref="char:punc">▪</g> run,</l>
+               <l>Cities and cattle; yea the Moon and Sun</l>
+               <l>Shall be remove, and (father-like) the leaſt,</l>
+               <l>Make higheſt, and give lawes to the weake Weſt.</l>
+            </q>
+            <p>The famous <hi>Ambroſe Merlin</hi> (as is obſerved by our Engliſh <hi>Merlin</hi> (as he calls himſelf) Mr. <hi>Lilly</hi>) Nine hundred years ſince (though of many wiſe men approved no better then the ſtory of the Knight of the Sun, or him of the Red Roſe) propheſied of the <hi>Second Charles,</hi> thus, <hi>Nidificabit in ſumme rupe totius Britani:</hi> He ſhall build his neſt in the chei<g ref="char:EOLhyphen"/>feſt
+<pb n="4" facs="tcp:117417:4"/>Rockes of all <hi>Brittaine;</hi> Importing, that he ſhall be<g ref="char:EOLhyphen"/>take himſelfe to ſome mountainous Iſland, or Country belonging to his loſt Dominions. But I ſhall paſſe from him, to him, <hi>viz.</hi> into <hi>France,</hi> and a while converſe with the Prince of <hi>Conde.</hi>
+            </p>
+            <p>Were I intended to dilate my ſelfe in relating the wo<g ref="char:EOLhyphen"/>full calamity, which ſhall within this halfe ſcore yeares ſeize upon the <hi>French</hi> Nation, I might write a large Volume thereof, and tell them that preſent Prince of <hi>Conde</hi> (whom ſome report as religious as a Turk) ſhall (vexed for the loſſe of his Generalſhip, and not being countenanced by the King equally with his ambition) attempt to ore-turn and alter the whole frame of Government, the unruly Nobility adhering to him, ſhall by their civill diſſention occaſion the ruine of that famous <hi>French</hi> Monarchy, it was propheſied long agoe that the time of this mutation ſhould be, when a certaine<note n="*" place="margin">
+                  <hi>Capiſtra<g ref="char:EOLhyphen"/>num</hi> D. of <hi>Florence</hi> is of late turned Proteſtant</note> Duke of <hi>Florence</hi> turned Pro<g ref="char:EOLhyphen"/>teſtant, pray peruſe this Propheſie (by ſome thought to be <hi>Grebners</hi>) the words are very ominous and theſe.</p>
+            <p>
+               <q xml:lang="lat">REx Franciae depelletur á ſuis finibus á propriis ſubditis, exercebit enim in eo tyranidem in gentem &amp; contra Eccle<g ref="char:EOLhyphen"/>ſiam Chriſti, inſtigatus ab Epiſcopis &amp; pontificibus &amp;c.—Verum cum fuerit amotus &amp; falſus ſolus, relinquetur in exilio, ab his in quibus erat confiſus in fine autem ſecundi incurſus hoc fiet ſic pendet clipeus in stipite.</q>
+            </p>
+            <p>In Engliſh thus.<lb/>
+               <q>THe King of <hi>France</hi> ſhall be driven from his owne Coaſts and Confines by his own Subjects, for he will exerciſe very great Tyranny againſt his Subjects and the Church of Chriſt, being inſtigated and ſtirred up thereto by the biſhops and Romaniſts, who ſhall ſeduce him, and betray him traiterouſly with bribery of mony, but thoſe miſdemeanours hee doth, ſhall ſeeme to bee done in fa<g ref="char:EOLhyphen"/>vour
+<pb n="5" facs="tcp:117417:4"/>of his Kinſ-men or Allies, but when he ſhall be re<g ref="char:EOLhyphen"/>moved, and (falſe man) ſhall alone be baniſhed, or all a<g ref="char:EOLhyphen"/>lone in exile, apart from thoſe he confided in, theſe things ſhall come to paſſe <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>I ſhall give you one Propheſie more, (more dreadfull and more poſitive then the former, never yet extant) which is this.</p>
+            <div type="poem">
+               <head>A Propheſie of the fall of Monarchy in <hi>France,</hi> occaſioned by the Rebellion of the Prince of <hi>Conde,</hi> &amp;c.</head>
+               <q>
+                  <l>
+                     <hi>FRance,</hi> hear and tremble when thou ſeeſt,</l>
+                  <l>Thy young King dote upon a<note n="*" place="margin">Mazarine</note> Prieſt,</l>
+                  <l>And in each City, and each Town</l>
+                  <l>The Miter pearch above the Crown</l>
+                  <l>Then wring thy hands, and weep, and cry,</l>
+                  <l>For thy deſtruction draweth nigh,</l>
+                  <l>Then<note n="*" place="margin">Conde.</note> 
+                     <hi>C.</hi> ſhall with outragious force,</l>
+                  <l>Make himſelfe ſtrong with foot and horſe,</l>
+                  <l>And though ſelf-ends do thruſt him on</l>
+                  <l>(And not a Reformation,</l>
+                  <l>As ſome ſhall thinke) hee'l give that blow</l>
+                  <l>Shall lay thy Pompe and pride full low</l>
+                  <l>He but begins a worke which ſhall</l>
+                  <l>Finde its perfection in his fall</l>
+                  <l>Jehovah means for to tranſlate,</l>
+                  <l>Thy power (O King) into a State</l>
+                  <l>
+                     <hi>Paris</hi> ſhall run with ſtreames of blood</l>
+                  <l>And Shrubs grow, where once Cities ſtood.</l>
+                  <l>All this (the Prophet doth divine)</l>
+                  <l>Shall hap to thee ere fifty nine.</l>
+               </q>
+               <p>This inevitable deſtiny attending fertile <hi>France,</hi> and ſo many mutations hanging over the heads of mankind, we
+<pb n="6" facs="tcp:117417:5"/>may juſtly conclude, that the day of Doome is not farre off, and every day expect, when one Orbe ſhall contend with another, and the fixed Starres in motion runne fa<g ref="char:EOLhyphen"/>ſter then the wandring Planets, the Seas riſing levell with the mountaines.</p>
+               <p>Till night, deſtruction, ruine, calamity, and eternall dark<g ref="char:EOLhyphen"/>neſſe, conclude all theſe miſeries.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
